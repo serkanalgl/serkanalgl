@@ -7,7 +7,7 @@ It's Serkan Algül, Senior Software Developer.
 
 - 👷 I've been worked full time for 10 years in software development.
 
-- 🌱 I’m currently mastering **Solidity & Web3**
+- 🌱 I'm currently developing myself and taking some time to hobby projects.
 
 - ⚡ Fun fact **I think I am exciting to learn something new**
 
