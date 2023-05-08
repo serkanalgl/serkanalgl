@@ -13,7 +13,7 @@
 
 <br />
 
-It's Serkan Algül, Senior Software Developer.
+It's Serkan Algül, a passionate self-taught developer and a freelance software engineer from Türkiye.
 
 - 👷 I've been worked full time for more than 10 years in software development and continue as freelancer.
 - 🌱 I'm currently developing myself and taking time to realize sophisticated products.
@@ -26,7 +26,7 @@ It's Serkan Algül, Senior Software Developer.
 
 <br />
 
-**languages and tools:**  
+🌸 **languages and tools:**  
 
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -83,3 +83,8 @@ It's Serkan Algül, Senior Software Developer.
 <code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/bitbucket/bitbucket-original.svg"></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/bamboo/bamboo-original.svg"></code>
 
+<br />
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
