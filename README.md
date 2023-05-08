@@ -15,7 +15,7 @@
 
 It's Serkan Algül, Senior Software Developer.
 
-- 👷 I've been worked full time for 10 years in software development and continue as freelancer.
+- 👷 I've been worked full time for more than 10 years in software development and continue as freelancer.
 - 🌱 I'm currently developing myself and taking time to realize sophisticated products.
 -  ⚡ Fun fact: I am exciting to learn something new!
 
