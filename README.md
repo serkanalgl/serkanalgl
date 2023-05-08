@@ -5,11 +5,23 @@ Hey there 👋
 
 It's Serkan Algül, Senior Software Developer.
 
-- 👷 I've been worked full time for 10 years in software development.
+- 👷 I've been worked full time for 10 years in software development and continue as freelancer.
+- 🌱 I'm currently developing myself and taking time to realize sophisticated products.
+-  ⚡  Fun fact: I am exciting to learn something new!
 
-- 🌱 I'm currently developing myself and taking some time to hobby projects.
+- ❓I've experience in the following fields.<br>
 
-- ⚡ Fun fact **I think I am exciting to learn something new**
+   🎯 Java 8/11/17<br>
+   🎯 Spring framework ( Mvc, Boot, Cloud, Data, Security, OAuth2)<br>
+   🎯 Javascript, Nodejs (express, nestjs)<br>
+   🎯 Relational / Non-relational ( postgresql, mongodb )<br>
+   🎯 Rest / Soap<br>
+   🎯 Microservice Architecture<br>
+   🎯 Rabbitmq, Redis<br>
+   🎯 Devops, Docker, Kubernetes<br>
+   🎯 Git, Subverse <br>
+   🎯 CI/CD (Jenkins, GitHub actions)<br>
+   🎯 Attlassian tools ( Jira, Bitbucket, Confluence, Bamboo )<br>
 
 <br>
 
