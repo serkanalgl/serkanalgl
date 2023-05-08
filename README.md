@@ -1,34 +1,85 @@
 <!--
 **serkanalgl/serkanalgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hey there 👋
+## Hey there 👋
+<a href="https://twitter.com/0xSerkan">
+  <img align="left" alt="Serkan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/serkanalgul/">
+  <img align="left" alt="Serkan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![visitors](https://visitor-badge.lithub.cc/badge?page_id=serkanalgl.serkanalgl&left_color=red&right_color=green)
+
+<br />
 
 It's Serkan Algül, Senior Software Developer.
 
 - 👷 I've been worked full time for 10 years in software development and continue as freelancer.
 - 🌱 I'm currently developing myself and taking time to realize sophisticated products.
--  ⚡  Fun fact: I am exciting to learn something new!
+-  ⚡ Fun fact: I am exciting to learn something new!
 
-- ❓I've experience in the following fields.<br>
+<br />
 
-   🎯 Java 8/11/17<br>
-   🎯 Spring framework ( Mvc, Boot, Cloud, Data, Security, OAuth2)<br>
-   🎯 Javascript, Nodejs (express, nestjs)<br>
-   🎯 Relational / Non-relational ( postgresql, mongodb )<br>
-   🎯 Rest / Soap<br>
-   🎯 Microservice Architecture<br>
-   🎯 Rabbitmq, Redis<br>
-   🎯 Devops, Docker, Kubernetes<br>
-   🎯 Git, Subverse <br>
-   🎯 CI/CD (Jenkins, GitHub actions)<br>
-   🎯 Attlassian tools ( Jira, Bitbucket, Confluence, Bamboo )<br>
+💼 any freelance work? do reach, [email](mailto:serkanalgl@gmail.com) :)<br>
+💬 ask me about anything, i am happy to help;
 
-<br>
+<br />
 
-#### Want to collaborate with me?
-📫 **serkanalgl@gmail.com**
-<p align="left">
+**languages and tools:**  
 
-<a href="https://twitter.com/0xSerkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immoinulmoin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/serkanalgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immoinulmoin" height="30" width="40" /></a>
-</p>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"></code>
+
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/nestjs/nestjs-plain.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/jquery/jquery-original.svg"></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/redux/redux-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/vuestorefront/vuestorefront-original.svg"></code>
+
+
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/rabbitmq/rabbitmq-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/influxdb/influxdb-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/hibernate/hibernate-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/mongoose/mongoose-original.svg"></code>
+
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/maven/maven-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/webpack/webpack-original.svg"></code>
+
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/githubactions/githubactions-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/nginx/nginx-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/tomcat/tomcat-original.svg"></code>
+
+
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/linux/linux-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/homebrew/homebrew-original.svg"></code>
+
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/digitalocean/digitalocean-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/googlecloud/googlecloud-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/heroku/heroku-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/vercel/vercel-original.svg"></code>
+
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/intellij/intellij-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/eclipse/eclipse-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/vscode/vscode-original.svg"></code>
+
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/jira/jira-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/confluence/confluence-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/bitbucket/bitbucket-original.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/bamboo/bamboo-original.svg"></code>
+
