@@ -89,9 +89,9 @@ It's Serkan Algül, a passionate self-taught developer and a freelance software 
 <!--START_SECTION:waka-->
 
 ```text
-Java     3 hrs 10 mins   ███████████████████████░░   92.25 %
-XML      14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Java     3 hrs 48 mins   █████████████████████▒░░░   85.74 %
+YAML     23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+XML      14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
