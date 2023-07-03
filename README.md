@@ -89,8 +89,9 @@ It's Serkan Algül, a passionate self-taught developer and a freelance software 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 21 mins    ███████████████████████▓░   94.49 %
-TypeScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+JavaScript   2 hrs 57 mins   ███████████████████████░░   92.36 %
+Markdown     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
