@@ -89,7 +89,7 @@ It's Serkan Algül, a passionate self-taught developer and a freelance software 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   8 mins          █████████████████████████   100.00 %
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
