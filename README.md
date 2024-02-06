@@ -2,14 +2,14 @@
 **serkanalgl/serkanalgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hey there 👋
-<a href="https://twitter.com/0xSerkan">
-  <img align="left" alt="Serkan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://x.com/0xSerkan">
+  <img align="left" alt="Serkan | X" width="22px" src="https://github.com/devicons/devicon/blob/develop/icons/twitter/twitter-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/serkanalgul/">
-  <img align="left" alt="Serkan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Serkan's LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/develop/icons/linkedin/linkedin-original.svg" />
 </a>
 
-![visitors](https://visitor-badge.lithub.cc/badge?page_id=serkanalgl.serkanalgl&left_color=red&right_color=green)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=serkanalgl&countColor=%23ff8a65&style=flat)](https://visitorbadge.io/status?path=serkanalgl)
 
 <br />
 
