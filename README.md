@@ -13,7 +13,7 @@
 
 <br />
 
-It's Serkan Algül, a passionate self-taught developer and a freelance software engineer from Türkiye.
+It's Serkan Algül, a passionate self-taught developer from Türkiye.
 
 - 👷 I've been worked full time for more than 10 years in software development and continue as indie developer.
 - 🌱 I'm currently developing myself and taking time to realize sophisticated products.
