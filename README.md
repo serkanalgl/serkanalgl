@@ -15,9 +15,9 @@
 
 It's Serkan Algül, a passionate self-taught developer and a freelance software engineer from Türkiye.
 
-- 👷 I've been worked full time for more than 10 years in software development and continue as freelancer.
+- 👷 I've been worked full time for more than 10 years in software development and continue as indie developer.
 - 🌱 I'm currently developing myself and taking time to realize sophisticated products.
--  ⚡ Fun fact: I am exciting to learn something new!
+- ⚡ Fun fact: I am exciting to learn something new!
 
 <br />
 
@@ -35,7 +35,7 @@ It's Serkan Algül, a passionate self-taught developer and a freelance software 
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/nestjs/nestjs-plain.svg"></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/nestjs/nestjs-original.svg"></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/jquery/jquery-original.svg"></code>
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/redux/redux-original.svg"></code>
@@ -84,12 +84,3 @@ It's Serkan Algül, a passionate self-taught developer and a freelance software 
 <code><img height="32" src="https://github.com/devicons/devicon/blob/develop/icons/bamboo/bamboo-original.svg"></code>
 
 <br />
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
