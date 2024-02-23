@@ -15,13 +15,13 @@
 
 It's Serkan Algül, a passionate self-taught developer from Türkiye.
 
-- 👷 I've been worked full time for more than 10 years in software development and continue as indie developer.
+- 👷 I've been worked full time for more than 10 years and now continue as indie developer.
 - 🌱 I'm currently developing myself and taking time to realize sophisticated products.
 - ⚡ Fun fact: I am exciting to learn something new!
 
 <br />
 
-💼 any freelance work? do reach, [email](mailto:serkanalgl@gmail.com) :)<br>
+💼 collaboration? do reach, [email](mailto:serkanalgl@gmail.com) :)<br>
 💬 ask me about anything, i am happy to help;
 
 <br />
