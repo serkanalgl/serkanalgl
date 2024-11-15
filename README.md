@@ -1,6 +1,9 @@
 <!--
 **serkanalgl/serkanalgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<img src="header.webp" height=400>
+
+
 # Hi there 👋
 I'm Serkan Algül, Senior Software Developer focusing on Java and microservices. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
