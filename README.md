@@ -1,7 +1,11 @@
 <!--
 **serkanalgl/serkanalgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Hey there 👋
+# Hi there 👋
+I'm Serkan Algül, Senior Software Developer focusing on Java and microservices. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+<br />
+
 <a href="https://x.com/0xSerkan">
   <img align="left" alt="Serkan | X" width="22px" src="https://github.com/devicons/devicon/blob/develop/icons/twitter/twitter-original.svg" />
 </a>
@@ -13,20 +17,17 @@
 
 <br />
 
-It's Serkan Algül, a passionate self-taught developer from Türkiye.
+Here are some ideas to get you started:
 
-- 👷 I've been worked full time for more than 10 years and now continue as indie developer.
-- 🌱 I'm currently developing myself and taking time to realize sophisticated products.
+- 🔭 I’m currently working in [Garanti BBVA Technology via BilgeAdam](http://www.garantiteknoloji.com.tr)
+- 🌱 I’m currently concentrated on Java and microservices
 - ⚡ Fun fact: I am exciting to learn something new!
+- 📫 How to reach me: [email](mailto:serkanalgl@gmail.com)
+- 💬 ask me about anything, i am happy to help;
 
 <br />
 
-💼 collaboration? do reach, [email](mailto:serkanalgl@gmail.com) :)<br>
-💬 ask me about anything, i am happy to help;
-
-<br />
-
-🌸 **languages and tools:**  
+<h3>🚀 Some Tools I Use</h3>
 
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
