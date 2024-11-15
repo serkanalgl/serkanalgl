@@ -19,7 +19,7 @@ I'm Serkan Algül, Senior Software Developer focusing on Java and microservices.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in [Garanti BBVA Technology via BilgeAdam](http://www.garantiteknoloji.com.tr)
+- 🔭 I’m currently working in [Garanti BBVA Technology via BilgeAdam](http://www.garantibbvateknoloji.com.tr)
 - 🌱 I’m currently concentrated on Java and microservices
 - ⚡ Fun fact: I am exciting to learn something new!
 - 📫 How to reach me: [email](mailto:serkanalgl@gmail.com)
